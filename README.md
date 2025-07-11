@@ -1,6 +1,6 @@
 # Kimi CC
 
-使用Kimi内部的最新模型驱动您的Claude Code。
+使用Kimi的最新模型（kimi-k2-0711-preview）驱动您的Claude Code。
 
 ## 快速安装
 
