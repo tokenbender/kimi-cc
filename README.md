@@ -1,8 +1,24 @@
 # Kimi CC
 
-使用Moonshot API驱动您的Claude Code。
+使用Kimi内部的最新模型驱动您的Claude Code。
 
-## 一键安装
+## 快速安装
+
+1. 前往Kimi开放平台申请API Key。
+
+点击前往：[Kimi开放平台](https://platform.moonshot.cn/)
+
+右上角用户中心 -> API Key 管理 -> 新建 API Key
 
 
+2. 快速安装，会要求您输入 API Key，最终回车即可。
 
+```shell
+bash -c "$(curl -fsSL https://github.com/LLM-Red-Team/kimi-cc/blob/main/install.sh"
+```
+
+3. 开始低成本使用 Claude Code。
+
+```shell
+claude
+```
