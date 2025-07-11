@@ -14,7 +14,7 @@
 2. 快速安装，会要求您输入 API Key，最终回车即可。
 
 ```shell
-bash -c "$(curl -fsSL https://github.com/LLM-Red-Team/kimi-cc/blob/main/install.sh"
+bash -c "$(curl -fsSL https://github.com/LLM-Red-Team/kimi-cc/blob/main/install.sh")
 ```
 
 3. 开始低成本使用 Claude Code。
