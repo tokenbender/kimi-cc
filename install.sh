@@ -70,7 +70,7 @@ node --eval '
 
 # Prompt user for API key
 echo "🔑 Please enter your Moonshot API key:"
-echo "   You can get your API key from: https://platform.moonshot.cn/console/api-keys"
+echo "   You can get your API key from: https://platform.moonshot.ai/console/api-keys"
 echo "   Note: The input is hidden for security. Please paste your API key directly."
 echo ""
 read -s api_key
